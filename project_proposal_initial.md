@@ -7,7 +7,7 @@ Keywords:
 Social Media, attention span, attention deficit
 
 Description: 
-A study and analyzation of the impact of social media on the attention span of users; primarily those from a youger demographic. Does social media have a significant impact on focus and attention span? How strong is the correlation, if any, between social media and attention span? Does social media useage from a young age have a greater impact on attention span than at an older age? What demographic is most effected by social media? This topic and these questions are feasible as they can be tested, measured, and compared within the alloted time.
+A study and analyzation of the impact of social media on the attention span of users; primarily those from a youger demographic. Does social media have a significant impact on focus and attention span? How strong is the correlation, if any, between social media and attention span? Does social media useage from a young age have a greater impact on attention span than at an older age? What demographic is most effected by social media? This topic and these questions are feasible as they can be tested, measured, and compared within the allotted time.
 
 Intellectual Merit: 
 Generations contemporaneous with the rise of social media and the age of information are considered ultramodern. Studies on the attention span of society are becoming more frequent in correlation to the prevalence of social media. Data on youth is even more seldom. Understanding the potential correlations of social media and attention span will enable the general public to make informed decisions regarding media usage.     
