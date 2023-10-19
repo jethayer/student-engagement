@@ -33,9 +33,18 @@ def truncate_mmi_score(records):
     
     return records
 
-def save_processed_data_to_csv(filename, records):
-    with open(os.path.join(DATA_PROCESSED_DIR, filename), mode='w', newline='', encoding='utf8') as csvfile:
+def save_processed_data_to_csv(records):
+    output_filename = 'processed_data.csv'
+    output_path = os.path.join(DATA_PROCESSED_DIR, output_filename)
+    with open(output_path, mode='w', newline='', encoding='utf8') as csvfile:
         fieldnames = records[0].keys()
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(records)
+
+input_filename = 'data_original/mmi_kids_gva_v2021.2.csv'
+output_filename = 'processed_data.csv'
+records = load_csv(input_filename)
+records = floor_age_values(records)
+records = truncate_mmi_score(records)
+save_processed_data_to_csv(records)
