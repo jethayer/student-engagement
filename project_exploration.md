@@ -145,18 +145,18 @@ simultaneously from 0-7, seven being all modes of media listed. These results ar
 multi media score is in a range that would be expected for the age and is comparable to other records of the field.
 
 ## Background Domain Knowledge  
-This project is directed in an effort to identify with strong correlation if frequent social media usage has a negative impact on attention span, specifically in the  
+This project is directed in an effort to identify with strong correlation if frequent social media usage has a negative impact on attention span, specifically in the 
 domain of youth. This dataset takes into account: age, school year, grade received, average social media usage per week, frequency of using multiple forms of media at   
-the same time, and various cognitive tests. The data also takes into account outside contributing factors such as amount of sleep, and disabilities. The comparisons of   
-various strata and the records as a whole will allow the findings of a statistical significance in the effects of social media, or lack thereof. It has been stated that   
-the attention span has gone down by 4 seconds since 2000, according to a study done by Microsoft (Wolmark). The question that is being asked is how much of this is   
-actually due to social media and not outside factors. Therefore, the null hypothesis should be that social media does not have a significant effect on attention span   
-and the alternative hypothesis, if statistically significant data is found to reject the null, would be that there is an effect. As we look deeper into whether there   
-really is an effect, the answer becomes much less clear. The statistic that attention span is shrinking is not a direct source from microsoft but another source called   
-Statistic Brain. It may be a myth that attention span is shrinking and it really is all just task-dependent (Maybin). It may also be the case that attention span is  
+the same time, and various cognitive tests. The data also takes into account outside contributing factors such as amount of sleep, and disabilities. The comparisons of 
+various strata and the records as a whole will allow the findings of a statistical significance in the effects of social media, or lack thereof. It has been stated that 
+the attention span has gone down by 4 seconds since 2000, according to a study done by Microsoft (Wolmark). The question that is being asked is how much of this is 
+actually due to social media and not outside factors. Therefore, the null hypothesis should be that social media does not have a significant effect on attention span 
+and the alternative hypothesis, if statistically significant data is found to reject the null, would be that there is an effect. As we look deeper into whether there 
+really is an effect, the answer becomes much less clear. The statistic that attention span is shrinking is not a direct source from microsoft but another source called  
+Statistic Brain. It may be a myth that attention span is shrinking and it really is all just task-dependent (Maybin). It may also be the case that attention span is 
 getting shorter but in a different way. It could be the case that switching tasks makes it seem like it is shorter but really the focus of attention is changing. This   
-however, can come at a cost (LaMotte). Switching tasks takes time to reorient yourself to what you are doing and to organize your thoughts. It may be better to be able   
-to focus on one task at a time to not incur these costs.   
+however, can come at a cost (LaMotte). Switching tasks takes time to reorient yourself to what you are doing and to organize your thoughts. It may be better to be able  
+to focus on one task at a time to not incur these costs.  
 
 References:  
 LaMotte, Sandee. “Your Attention Span Is Shrinking, Studies Say. Here’s How to Stay Focused.” CNN, Cable News Network, 30 May 2023,  
