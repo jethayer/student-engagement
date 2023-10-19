@@ -151,11 +151,8 @@ various strata and the records as a whole will allow the findings of a statistic
 the attention span has gone down by 4 seconds since 2000, according to a study done by Microsoft (Wolmark). The question that is being asked is how much of this is 
 actually due to social media and not outside factors. Therefore, the null hypothesis should be that social media does not have a significant effect on attention span 
 and the alternative hypothesis, if statistically significant data is found to reject the null, would be that there is an effect. As we look deeper into whether there 
-really is an effect, the answer becomes much less clear. The statistic that attention span is shrinking is not a direct source from microsoft but another source called  
-Statistic Brain. It may be a myth that attention span is shrinking and it really is all just task-dependent (Maybin). It may also be the case that attention span is 
-getting shorter but in a different way. It could be the case that switching tasks makes it seem like it is shorter but really the focus of attention is changing. This  
-however, can come at a cost (LaMotte). Switching tasks takes time to reorient yourself to what you are doing and to organize your thoughts. It may be better to be able  
-to focus on one task at a time to not incur these costs.  
+really is an effect, the answer becomes much less clear. The statistic that attention span is shrinking is not a direct source from microsoft but another source called Statistic Brain. It may be a myth that attention span is shrinking and it really is all just task-dependent (Maybin). It may also be the case that attention span is 
+getting shorter but in a different way. It could be the case that switching tasks makes it seem like it is shorter but really the focus of attention is changing. This however, can come at a cost (LaMotte). Switching tasks takes time to reorient yourself to what you are doing and to organize your thoughts. It may be better to be able to focus on one task at a time to not incur these costs.  
 
 References:  
 LaMotte, Sandee. “Your Attention Span Is Shrinking, Studies Say. Here’s How to Stay Focused.” CNN, Cable News Network, 30 May 2023,  
