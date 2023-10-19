@@ -131,8 +131,7 @@ k010	t04	5P	8.9	[ 8.0,10.2)	male	0.8	3.357	0.786	0	3.357	1.5	0.357	0.08925	0.267
 
 **Interpretation:**  
 This record is for the 10th kid in the data set. It lists the relevant data for each of the fields desribed in the field meanings section.  
-Some ones of note are gender (male), media_h (9.857), and grades (0.7). This data makes sense as it falls within a reasonable range in comparsion  
-with the other fields. media_h is the hours of media spent in a week and grades is the self reported from from 0-1. 0.7 would be a C.  
+Some ones of note are gender (male), media_h (9.857), and grades (0.7). This data makes sense as it falls within a reasonable range in comparsion with the other fields. media_h is the hours of media spent in a week and grades is the self reported from from 0-1. 0.7 would be a C.  
 
 ### Record 2  
 **Raw Data:**  
@@ -146,7 +145,7 @@ multi media score is in a range that would be expected for the age and is compar
 
 ## Background Domain Knowledge  
 This project is directed in an effort to identify with strong correlation if frequent social media usage has a negative impact on attention span, specifically in the 
-domain of youth. This dataset takes into account: age, school year, grade received, average social media usage per week, frequency of using multiple forms of media at   
+domain of youth. This dataset takes into account: age, school year, grade received, average social media usage per week, frequency of using multiple forms of media at 
 the same time, and various cognitive tests. The data also takes into account outside contributing factors such as amount of sleep, and disabilities. The comparisons of 
 various strata and the records as a whole will allow the findings of a statistical significance in the effects of social media, or lack thereof. It has been stated that 
 the attention span has gone down by 4 seconds since 2000, according to a study done by Microsoft (Wolmark). The question that is being asked is how much of this is 
@@ -154,7 +153,7 @@ actually due to social media and not outside factors. Therefore, the null hypoth
 and the alternative hypothesis, if statistically significant data is found to reject the null, would be that there is an effect. As we look deeper into whether there 
 really is an effect, the answer becomes much less clear. The statistic that attention span is shrinking is not a direct source from microsoft but another source called  
 Statistic Brain. It may be a myth that attention span is shrinking and it really is all just task-dependent (Maybin). It may also be the case that attention span is 
-getting shorter but in a different way. It could be the case that switching tasks makes it seem like it is shorter but really the focus of attention is changing. This   
+getting shorter but in a different way. It could be the case that switching tasks makes it seem like it is shorter but really the focus of attention is changing. This  
 however, can come at a cost (LaMotte). Switching tasks takes time to reorient yourself to what you are doing and to organize your thoughts. It may be better to be able  
 to focus on one task at a time to not incur these costs.  
 
@@ -181,10 +180,9 @@ typically only referred to as eight.
 ### Transformation 2  
 
 **Description:**   
-mmi_score truncation to four decimal places. I truncate any and all mmi scores with more than  
-four decimals to for decimal places maximum.  
+mmi_score truncation to four decimal places. I truncate any and all mmi scores with more than four decimals to for decimal places maximum.  
 
-**Soundness Justification:** 
+**Soundness Justification:**  
 Some of the mmi scores are very long floating point numbers. This makes the data hard to read.   
 There is only really a need to save to two or three decimal places but I decided on four to  
 ensure integrity and precision of the data.  
