@@ -1,0 +1,8 @@
+               Min       Max       Median    
+media hours    1.643     34.929    6.144     
+grades         0.0       1.0       0.8       
+mmi score      0.0       6.1288    1.0303    
+age            8.0       12.0      10.0      
+
+               Num Categories      Most Frequent       Least Frequent      
+school year    5                   7P                  special needs       
