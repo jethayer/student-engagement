@@ -9,7 +9,7 @@ Social Media, attention span, attention deficit
 #### Description:  
 A study and analyzation of the impact of social media on the attention span of users; primarily those from a youger demographic. Does social  
 media have a significant impact on focus and attention span? How strong is the correlation, if any, between social media and attention span?  
-This topic and these questions are feasible as they can be tested, measured, and compared within the allotted time by sourcing data from studies   
+This topic and these questions are feasible as they can be tested, measured, and compared within the allotted time by sourcing data from studies 
 of performance in school and attention in comparison to frequecny of social media usage.  
   
 #### Research Objectives:  
@@ -22,10 +22,10 @@ RO3: To defend the prediction of focus and academic scores/values in RO2.
 RO4: To evaluate causal relationships implied by academic scores and values based on media usage in RO2.  
   
 #### Intellectual Merit:  
-Generations contemporaneous with the rise of social media and the age of information are considered ultramodern. Studies on the attention span   
+Generations contemporaneous with the rise of social media and the age of information are considered ultramodern. Studies on the attention span 
 of society are becoming more frequent in correlation to the prevalence of social media. Data on youth is even more seldom making this a new  
 field of discovery, yet easily explorable to study and anzalyze. In this project studies will be replicated and their data will be used to  
-perform new comparisons through correlation abd regression analysis. Understanding the potential correlations of social media and attention span   
+perform new comparisons through correlation abd regression analysis. Understanding the potential correlations of social media and attention span 
 will enable the general public to make informed decisions regarding media usage which is why these studies are necessary.   
   
 #### Data Sourcing:  
