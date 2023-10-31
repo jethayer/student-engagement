@@ -23,7 +23,7 @@ RO4: To evaluate causal relationships implied by academic scores and values base
   
 #### Intellectual Merit:  
 Generations contemporaneous with the rise of social media and the age of information are considered ultramodern. Studies on the attention span 
-of society are becoming more frequent in correlation to the prevalence of social media. Data on youth is even more seldom making this a new  
+of society are becoming more frequent in correlation to the prevalence of social media. Data on youth is even more seldom making this a new 
 field of discovery, yet easily explorable to study and anzalyze. In this project studies will be replicated and their data will be used to  
 perform new comparisons through correlation abd regression analysis. Understanding the potential correlations of social media and attention span 
 will enable the general public to make informed decisions regarding media usage which is why these studies are necessary.   
