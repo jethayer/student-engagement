@@ -15,7 +15,7 @@ if __name__ == "__main__":
     records = wf_dataprocessing.truncate_mmi_score(records)
 
     # Save the processed data to a new CSV file in the 'data_processed/' directory
-    wf_dataprocessing.save_processed_data_to_csv(output_filename, records)
+    wf_dataprocessing.save_processed_data_to_csv(records)
 
     # Write qualitative and quantitative data to summary.txt in 'data_processed/' directory
     wf_visualization.write_to_summary('data_processed/summary.txt')
