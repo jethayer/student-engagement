@@ -1,5 +1,11 @@
 import wf_dataprocessing
 import wf_visualization
+import wf_ml_evaluation
+import wf_ml_training
+
+from sklearn.linear_model import LinearRegression, Ridge
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import RandomForestRegressor
 
 __author__ = "James Thayer"
 __date__ = "10/18/2023"
@@ -27,3 +33,24 @@ if __name__ == "__main__":
     wf_visualization.mediah_vs_age(records)
     wf_visualization.mediah_vs_mmi_score(records)
     wf_visualization.school_year_histogram(records)
+
+    # Create Training and Test datasets
+    wf_ml_evaluation.create_datasets()
+
+    # Instatiate path names
+    linear_regression_model_path = 'models/linear_regression_model.joblib'
+    ridge_model_path = 'models/ridge_model.joblib'
+    decision_tree_model_path = 'models/decision_tree_model.joblib'
+    random_forest_model_path = 'models/random_forest_model.joblib'
+    
+    # Train models
+    wf_ml_training.train_model(LinearRegression, linear_regression_model_path)
+    wf_ml_training.train_model(Ridge, ridge_model_path)
+    wf_ml_training.train_model(DecisionTreeRegressor, decision_tree_model_path)
+    wf_ml_training.train_model(RandomForestRegressor, random_forest_model_path)
+
+    # Evaluate models
+    wf_ml_evaluation.evaluate_model(linear_regression_model_path)
+    wf_ml_evaluation.evaluate_model(ridge_model_path)
+    wf_ml_evaluation.evaluate_model(decision_tree_model_path)
+    wf_ml_evaluation.evaluate_model(random_forest_model_path)
