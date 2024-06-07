@@ -1,4 +1,33 @@
-﻿# Introduction
-This repository contains files for the individual course project in SER594: Data Science for Software Engineers (2023) created by James Thayer for partial fulfillment of the course requirements.
+# Project Name: Student Engagement Analysis
 
-At this time, this project has not been cleared by the course staff (R. Acuna) for public release, and must be kept within a private repository.
+This project aims to analyze student engagement data to understand its relationship with various factors such as media usage, grades, age, and more. The code provided includes data processing, visualization, machine learning model training, and evaluation.
+
+## Instructions:
+
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/your_username/your_repository.git
+
+2. **Navigate to Project Directory:**
+   cd your_repository
+
+3. **Setup Environment:**
+   Ensure Python 3.x is installed.
+   Install required packages:
+   pip install -r requirements.txt
+
+4. **Run Code:**
+   Execute the wf_core.py file:
+   python wf_core.py
+
+Important Files:
+wf_core.py: Main script to execute the entire workflow, including data processing, visualization, model training, and evaluation.
+wf_dataprocessing.py: Contains functions for loading, processing, and saving data.
+wf_ml_evaluation.py: Module for evaluating machine learning models using metrics like Mean Squared Error (MSE) and R-squared.
+wf_ml_prediction.py: Module for making predictions using trained machine learning models.
+wf_ml_training.py: Module for training machine learning models.
+wf_visualization.py: Module for generating various visualizations such as scatter plots and histograms.
+
+Notes:
+Ensure the required data files are present in the specified directories (data_original/, data_processed/) as per the code.
+Output files such as visualizations and evaluation summaries will be saved in their respective directories (visuals/, evaluation/).
