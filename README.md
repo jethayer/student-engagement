@@ -9,15 +9,18 @@ This project aims to analyze student engagement data to understand its relations
    git clone https://github.com/your_username/your_repository.git
 
 2. **Navigate to Project Directory:**
+   ```bash
    cd your_repository
 
-3. **Setup Environment:**
+4. **Setup Environment:**
    Ensure Python 3.x is installed.
    Install required packages:
+   ```bash
    pip install -r requirements.txt
 
-4. **Run Code:**
+6. **Run Code:**
    Execute the wf_core.py file:
+   ```bash
    python wf_core.py
 
 Important Files:
