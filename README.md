@@ -6,11 +6,11 @@ This project aims to analyze student engagement data to understand its relations
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your_username/jethayer.git
+   git clone https://github.com/jethayer/student-engagement.git
 
 2. **Navigate to Project Directory:**
    ```bash
-   cd your_repository
+   cd student-engagement
 
 4. **Setup Environment:**
    Ensure Python 3 is installed.
