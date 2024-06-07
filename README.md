@@ -1,4 +1,4 @@
-# Project Name: Student Engagement Analysis
+# Student Engagement Analysis
 
 This project aims to analyze student engagement data to understand its relationship with various factors such as media usage, grades, age, and more. The code provided includes data processing, visualization, machine learning model training, and evaluation.
 
